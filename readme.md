@@ -1,1 +1,1 @@
-hosted link : https://anshuverma-cricbuzz-assi.netlify.app/
+hosted link : https://wordsearchastik.netlify.app/
